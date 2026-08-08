@@ -2,7 +2,7 @@
 Machine learning project that predicts shipment delays using transportation management system (TMS) data.
 
 ## Project Overview
-This project uses transportation management system (TMS) data to predict if a shipment will be delayed. I used shipment data to compare different machine learning models and see which model worked best at predicting shipment delays.
+I used transportation management system (TMS) data to look at shipment delays and determine whether a shipment would be delayed. I cleaned the data and tested different machine learning models to compare their results.
 
 ## Tools Used
 - Python
@@ -23,4 +23,9 @@ This project uses transportation management system (TMS) data to predict if a sh
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Support Vector Classifier (SVC)
+
+## Results
+Random Forest had the highest accuracy at 68.27%, followed by Logistic Regression at 65.27% and Decision Tree at 65.18%.
+
+## What I Learned
+Working on this project gave me more experience using machine learning with transportation data. I learned how to compare model results and determine which model performed best at predicting shipment delays.
