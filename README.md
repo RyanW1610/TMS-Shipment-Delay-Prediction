@@ -11,7 +11,7 @@ I used transportation management system (TMS) data to look at shipment delays an
 - Scikit-learn
 - Matplotlib
 
-  ## Project Steps
+## Project Steps
 - Loaded the shipment dataset
 - Explored and cleaned the data
 - Prepared the data for machine learning
@@ -19,7 +19,7 @@ I used transportation management system (TMS) data to look at shipment delays an
 - Trained and compared multiple machine learning models
 - Evaluated the model results
 
-  ## Models Used
+ ## Models Used
 - Logistic Regression
 - Decision Tree
 - Random Forest
